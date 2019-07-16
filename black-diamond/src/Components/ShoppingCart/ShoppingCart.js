@@ -28,7 +28,7 @@ class ShoppingCart extends Component {
           shoppingCartDisplay
         ) : (
           <div className="go-buy-something">
-            <h1>Your shopping cart is empty! Go buy something!</h1>
+            <h1>Your shopping cart is empty! Good Job! Save some money!</h1>
           </div>
         )}
       </div>
